@@ -5,7 +5,7 @@
 **Цель:** На основе информации о видео предсказывать количество просмотров (views) с использованием машинного обучения.  
 
 **Автор проекта:** Солодянкина Ариана, Хасенова Инкара  
-**Источник данных:** [USvideos.csv](https://www.kaggle.com/datasnaek/youtube-new) на Kaggle  
+**Источник данных:** (https://www.kaggle.com/datasnaek/youtube-new) на Kaggle  
 
 ---
 
